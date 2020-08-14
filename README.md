@@ -12,9 +12,6 @@ THEN the user should be able to:
 ## Experience
 I know this is a broken record but this homework was HARD! 
 
-## Issues
-The app is deploying on my local machine and the filter/search and sort function works. However, I was not able to deploy to heroku. See images for filter/search and sort functions as deployed on local machine:
-
 ## Main Landing Page
 ![Main Landing Page](./public/assets/main.png)
 
