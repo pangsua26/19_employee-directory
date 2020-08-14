@@ -1,6 +1,7 @@
 import axios from "axios";
 
 export default {
+    // get users from randomuser API and return results
     getUsers: function() {
         return new Promise((resolve,reject) => {
             axios

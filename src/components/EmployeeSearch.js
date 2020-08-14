@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import UserContext from "../utils/UserContext";
 
-
+// employee search function to pull UserContent hook to objects
 function EmployeeSearch() {
     const { users, searchedUsers, search} = useContext(UserContext);
 
@@ -10,7 +10,7 @@ function EmployeeSearch() {
     console.log(search);
 
     return (
-
+        // return search format
         <div className="row">
             {search === "" ? (users.map(user => {
                     return (

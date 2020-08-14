@@ -1,10 +1,11 @@
 import React from 'react';
 
+// create header and render heading and paragragh
 function Header () {
     return (
         <div className="header center">
             <h1>Employee Directory</h1>
-            <p>Click on buttons to sort, or use the search by first name or last name.</p>
+            <p>Click on buttons to sort by first name, or use the search by first name and last name.</p>
         </div>
     )
 };
