@@ -22,7 +22,7 @@ The app is deploying on my local machine and the filter/search and sort function
 ![Filter/Search](./public/assets/filter-search.png)
 
 ## Sort by First Name
-![Sort](./public/assets/filter-search.png)
+![Sort](./public/assets/sort-firstname.png)
 
 
 
