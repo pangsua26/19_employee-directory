@@ -16,7 +16,7 @@ function EmployeeSearch() {
                     return (
                         <div className="col s12 m4" key={user.id}>
                             <div className="card small horizontal" >
-                                <div className="card-image" style={{height: "250px", width: "250px"}}>
+                                <div className="card-image" style={{height: "150px", width: "150px"}}>
                                     <img src={user.image}  alt="avatar" /> 
                                 </div>
                                 <div className="card-stacked">
@@ -35,7 +35,7 @@ function EmployeeSearch() {
                     return (
                         <div className="col s12 m4" key={user.id}>
                             <div className="card small horizontal" >
-                                <div className="card-image" style={{height: "250px", width: "250px"}}>
+                                <div className="card-image" style={{height: "150px", width: "150px"}}>
                                     <img src={user.image}  alt="avatar" /> 
                                 </div>
                                 <div className="card-stacked">
