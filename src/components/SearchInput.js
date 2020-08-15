@@ -9,7 +9,7 @@ function SearchInput(props) {
             className="center"
             value={props.results}
             onChange={props.handleInputChange}
-            placeholder="Type a First"
+            placeholder="Type a first name"
             id="name"
         />
     </div>
